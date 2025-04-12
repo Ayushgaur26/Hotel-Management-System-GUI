@@ -1,2 +1,1 @@
-# Hotel-Management-System-GUI
-A simple Java-based Hotel Management System with a graphical user interface (GUI) built using Swing. This application allows customers to select food items, input quantities, view bills, and generate PDF invoices.
+"A simple Java-based Hotel Management System with a graphical user interface (GUI) built using Swing. This application allows customers to select food items, input quantities, view bills, and generate PDF invoices. The system supports adding items to a bill, clearing the bill, and printing it in PDF format. Perfect for small-scale hotel or restaurant billing management."
